@@ -1,0 +1,31 @@
+-------------------------------------------------------------------------------
+rb-open-folder 0.4
+-------------------------------------------------------------------------------
+  Adolfo González Blázquez <code@infinicode.org>
+  http://www.infinicode.org/code/rb/
+
+DESCRIPTION
+
+  A simple plugin to open the folder that contains the selected song.
+
+INSTALL
+
+  Copy directory to:
+    * ~/.gnome2/rhythmbox/plugins/
+    -OR-
+    * $prefix/lib/rhythmbox/plugins/
+
+  So it looks like:
+    * ~/.gnome2/rhythmbox/plugins/rb-open-folder-0.4
+	-OR-
+	* $prefix/lib/rhythmbox/plugins/rb-open-folder-0.4
+
+DEPENDENCIES
+
+  * rhythmbox >= 0.9.6
+  * pygtk/gobject
+  * xdg-utils
+
+LICENSE
+
+  rb-open-folder is distributed under the GPL Version 2.
