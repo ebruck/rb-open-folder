@@ -6,4 +6,4 @@ Name=Open Folder
 Description=Open the folder that contains the selected song
 Authors=Edward G. Bruck <ed.bruck1@gmail.com>, Adolfo González Blázquez <code@infinicode.org>
 Copyright=Copyright © 2011 Edward G. Bruck, Copyright © 2007, 2008 Adolfo González Blázquez 
-Website=http://www.infinicode.org/code/rb/
+Website=https://github.com/ebruck/rb-open-folder
