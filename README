@@ -1,4 +1,21 @@
 -------------------------------------------------------------------------------
+rb-open-folder 0.5
+-------------------------------------------------------------------------------
+  Edward G. Bruck <ed.bruck1@gmail.com
+
+DESCRIPTION
+  
+  Fork of 0.4 to support Rhythmbox 2.90.1
+
+INSTALL
+
+  Copy directory to:
+    * ~/.local/share/rhythmbox/plugins
+
+  So it looks like:
+    * ~/.local/share/rhythmbox/plugins/rb-open-folder
+
+-------------------------------------------------------------------------------
 rb-open-folder 0.4
 -------------------------------------------------------------------------------
   Adolfo González Blázquez <code@infinicode.org>
